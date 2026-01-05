@@ -1,6 +1,12 @@
 # Análise de Efetividade de Terras Indígenas na Amazônia (LULC)
 
-Este diretório contém os módulos computacionais desenvolvidos para analisar a dinâmica de uso e cobertura do solo (LULC) em Terras Indígenas (TIs) da Amazônia Legal. Os scripts dão suporte à pesquisa que avalia a qualidade da vegetação e a pressão antrópica no interior das áreas protegidas versus suas zonas de amortecimento (entorno).
+> 🏆 **Trabalho Publicado**
+> Os algoritmos deste repositório fundamentaram a pesquisa publicada na revista **Sociedade & Natureza**.
+>
+> 📄 **Artigo:** *Análise da qualidade da vegetação em terras indígenas e no seu entorno na região hidrográfica da Amazônia*
+> 🔗 **DOI do Artigo:** doi.org/10.14393/SN-v37-2025-74902
+
+Este diretório contém os módulos computacionais desenvolvidos para analisar a dinâmica de uso e cobertura do solo (LULC) em Terras Indígenas (TIs) da Amazônia Legal. Os scripts avaliam a qualidade da vegetação e a pressão antrópica no interior das áreas protegidas versus suas zonas de amortecimento.
 
 ## 📋 Descrição dos Módulos
 
@@ -20,9 +26,6 @@ O fluxo de trabalho foca na comparação estatística entre áreas protegidas e 
 * `dplyr` / `tidyr`: Manipulação de tabelas de atributos e estatísticas.
 
 ## 📄 Contexto Científico
-Estes scripts integram a metodologia do trabalho:
-> *Análise da qualidade da vegetação em terras indígenas e no seu entorno na região hidrográfica da Amazônia.*
-
 O estudo investiga se as TIs funcionam efetivamente como barreiras contra o desmatamento e a expansão agropecuária em comparação com o uso do solo em suas fronteiras imediatas.
 
 ## 👥 Autoria
